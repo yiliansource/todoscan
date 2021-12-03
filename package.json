@@ -16,12 +16,14 @@
         "@mui/icons-material": "^5.0.4",
         "@mui/lab": "^5.0.0-alpha.54",
         "@mui/material": "^5.0.2",
+        "@octokit/rest": "^18.12.0",
         "clsx": "^1.1.1",
         "multilang-extract-comments": "^0.4.0",
         "next": "12.0.0",
         "react": "17.0.2",
         "react-dom": "17.0.2",
-        "react-syntax-highlighter": "^15.4.5"
+        "react-syntax-highlighter": "^15.4.5",
+        "react-transition-group": "^4.4.2"
     },
     "devDependencies": {
         "@trivago/prettier-plugin-sort-imports": "^2.0.4",

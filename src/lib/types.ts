@@ -1,5 +1,4 @@
 export interface ScanResult {
-    truncated: boolean;
     items: ScanItem[];
     meta?: unknown;
 }
